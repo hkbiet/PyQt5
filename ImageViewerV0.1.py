@@ -1,3 +1,16 @@
+#!/usr/bin/env python
+
+
+#############################################################################
+##
+## Please Provide a link to this repo if copying
+## author -- Hemant Kumar.
+## 
+## All rights reserved.
+#############################################################################
+
+
+
 import os
 import sys
 from PyQt5.QtWidgets import QLabel, QHBoxLayout, QVBoxLayout, QPushButton, QMainWindow, QApplication, QWidget
