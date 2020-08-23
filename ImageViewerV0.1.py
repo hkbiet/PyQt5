@@ -16,6 +16,8 @@ import sys
 from PyQt5.QtWidgets import QLabel, QHBoxLayout, QVBoxLayout, QPushButton, QMainWindow, QApplication, QWidget
 from PyQt5.QtGui import QPixmap
 
+
+
 class Central_Widget(QWidget):
 	def __init__(self):
 		super().__init__()
